@@ -28,11 +28,11 @@
 ######	基础组件搭建（通过低代码配置）
 1. SingleForm 组件  
 
-   ![未命名文件 (1)的副本](https://github.com/twentyFive-zhang/description-mds/blob/main/images/未命名文件 (1).png)
+   ![未命名文件 (1)的副本](https://github.com/twentyFive-zhang/description-mds/blob/main/images/%E6%9C%AA%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%20(1).png)
 
 2. SingleTable 组件
 
-   ![未命名文件 (2)](https://github.com/twentyFive-zhang/description-mds/blob/main/images/未命名文件 (2).png)
+   ![未命名文件 (2)](https://github.com/twentyFive-zhang/description-mds/blob/main/images/未命名文件%20(2).png)
 ######	传入配置设置
 1. ajaxJson 接口相关配置 
    1. 接口函数 Promise   `AjaxKey: new Promise((resolve)=>{return resolve()})`
