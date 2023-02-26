@@ -4,7 +4,7 @@
 ##### 背景
 后台管理页面基本由表单和列表页组成，其中功能也大同小异，每次新增需求，业务代码重合率较大，开发时间大部分在基础功能部分重合
 
-![技术架构图](/Users/twenty-five/Downloads/技术架构图.png)
+![技术架构图](https://github.com/twentyFive-zhang/description-mds/blob/main/images/技术架构图.png)
 
 ##### 目的
 提取公共代码，开发相应的表单/列表组件，通过传入配置减少代码量，实现low-code开发，提高效率，专注业务本身，使开发时间集中在与后端接口联调，在页面开发阶段减少至少百分之六十的时间
@@ -28,11 +28,11 @@
 ######	基础组件搭建（通过低代码配置）
 1. SingleForm 组件  
 
-   ![未命名文件 (1)的副本](/Users/twenty-five/Downloads/未命名文件 (1)的副本.png)
+   ![未命名文件 (1)的副本](https://github.com/twentyFive-zhang/description-mds/blob/main/images/未命名文件 (1).png)
 
 2. SingleTable 组件
 
-   ![未命名文件 (2)](/Users/twenty-five/Downloads/未命名文件 (2).png)
+   ![未命名文件 (2)](https://github.com/twentyFive-zhang/description-mds/blob/main/images/未命名文件 (2).png)
 ######	传入配置设置
 1. ajaxJson 接口相关配置 
    1. 接口函数 Promise   `AjaxKey: new Promise((resolve)=>{return resolve()})`
